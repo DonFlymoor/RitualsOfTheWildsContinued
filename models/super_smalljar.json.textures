@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "small_jaring_texture"
+      },
+      "name": "default"
+    }
+  }
+}

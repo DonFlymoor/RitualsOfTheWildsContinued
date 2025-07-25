@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "medium_jar_texture_water"
+      },
+      "name": "default"
+    }
+  }
+}

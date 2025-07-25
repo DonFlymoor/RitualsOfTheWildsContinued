@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "rituals_of_the_wilds:block/corrupted_planks",
+    "bottom": "rituals_of_the_wilds:block/corrupted_planks",
+    "top": "rituals_of_the_wilds:block/corrupted_planks",
+    "side": "rituals_of_the_wilds:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

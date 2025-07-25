@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/ink_bottles",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/ink_mushroom",
+    "particle": "rituals_of_the_wilds:block/ink_mushroom",
+    "0": "rituals_of_the_wilds:block/ink_mushroom"
+  },
+  "render_type": "cutout"
+}

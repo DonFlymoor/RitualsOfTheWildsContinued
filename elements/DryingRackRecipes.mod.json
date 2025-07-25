@@ -1,0 +1,31 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "drying_rack_jei.png",
+    "width": 136,
+    "height": 82,
+    "icon": {
+      "value": "CUSTOM:DryingRack"
+    },
+    "craftingtable": {
+      "value": "CUSTOM:DryingRack"
+    },
+    "enableCraftingtable": true,
+    "title": "Drying",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 25,
+        "y": 38,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 94,
+        "y": 38,
+        "slotid": 0
+      }
+    ]
+  }
+}

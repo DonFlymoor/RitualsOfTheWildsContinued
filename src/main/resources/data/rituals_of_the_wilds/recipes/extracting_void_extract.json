@@ -1,0 +1,15 @@
+{
+  "type": "rituals_of_the_wilds:fume_extracting",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:old_ceramic_pot"
+    },
+    {
+      "item": "rituals_of_the_wilds:void_dust"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:void_extract",
+    "count": 1
+  }
+}

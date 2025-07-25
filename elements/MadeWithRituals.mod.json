@@ -1,0 +1,36 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:EldritchInkBottle"
+      },
+      {
+        "value": "CUSTOM:StormInkBottle"
+      },
+      {
+        "value": "CUSTOM:ShadowInkBottle"
+      },
+      {
+        "value": "CUSTOM:MoonlightInkBottle"
+      },
+      {
+        "value": "CUSTOM:PaleInkBottle"
+      },
+      {
+        "value": "CUSTOM:FrostMoss"
+      },
+      {
+        "value": "CUSTOM:Moonpetal"
+      },
+      {
+        "value": "CUSTOM:AetherBlob"
+      }
+    ],
+    "information": [
+      "Made with rituals.",
+      "Recipe to this can be found in ritual scrolls."
+    ]
+  }
+}

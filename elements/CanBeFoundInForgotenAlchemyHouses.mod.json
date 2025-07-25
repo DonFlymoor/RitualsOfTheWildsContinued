@@ -1,0 +1,17 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:RitualScroll"
+      },
+      {
+        "value": "CUSTOM:AlchemyScroll"
+      }
+    ],
+    "information": [
+      "Can be found in forgoten/ruined alchemy houses."
+    ]
+  }
+}

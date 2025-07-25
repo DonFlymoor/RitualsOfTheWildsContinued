@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " ba",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:rune_scriber",
+    "count": 1
+  }
+}

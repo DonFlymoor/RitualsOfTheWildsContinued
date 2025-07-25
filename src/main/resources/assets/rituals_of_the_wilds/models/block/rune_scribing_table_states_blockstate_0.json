@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rune_scribing_table_no_chisel",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/rune_scribing_table_textures",
+    "particle": "rituals_of_the_wilds:block/rune_scribing_table_textures",
+    "0": "rituals_of_the_wilds:block/rune_scribing_table_textures"
+  },
+  "render_type": "cutout"
+}

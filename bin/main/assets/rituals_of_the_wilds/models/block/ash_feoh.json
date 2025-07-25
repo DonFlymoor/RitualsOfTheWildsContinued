@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rune_thing",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/feoh_ash",
+    "particle": "rituals_of_the_wilds:block/feoh_ash",
+    "0": "rituals_of_the_wilds:block/feoh_ash"
+  },
+  "render_type": "cutout"
+}

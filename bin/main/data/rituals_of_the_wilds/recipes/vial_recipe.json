@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "tag": "forge:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:empty_vial",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "rituals_of_the_wilds:custom/distillation_flask",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/flask",
+    "particle": "rituals_of_the_wilds:block/brightrope",
+    "0": "rituals_of_the_wilds:block/brightrope",
+    "1": "rituals_of_the_wilds:block/rope_harness",
+    "2": "rituals_of_the_wilds:block/flask"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:strings"
+    },
+    "b": {
+      "tag": "forge:black_dye"
+    },
+    "c": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:void_opal",
+    "count": 1
+  }
+}

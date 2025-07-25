@@ -1,0 +1,55 @@
+{
+  "_fv": 66,
+  "_type": "blockstates",
+  "definition": {
+    "block": "TiedVoidRoot",
+    "blockstateList": [
+      {
+        "texture": "void_root_hanging_texture",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "driedherbup:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 5.0,
+            "mz": 2.0,
+            "Mx": 12.0,
+            "My": 16.0,
+            "Mz": 12.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "void_root_hanging_texture",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "driedherblay:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 12.0,
+            "My": 12.0,
+            "Mz": 12.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

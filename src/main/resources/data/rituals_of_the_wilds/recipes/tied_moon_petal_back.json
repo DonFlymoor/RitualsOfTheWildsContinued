@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_moon_petal"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:moonpetal",
+    "count": 4
+  }
+}

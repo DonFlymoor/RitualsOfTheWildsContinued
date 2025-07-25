@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "rituals_of_the_wilds:fume_extractor",
+    "rituals_of_the_wilds:distilation_flask",
+    "rituals_of_the_wilds:catalyst_grinder",
+    "rituals_of_the_wilds:mortar_and_pestle",
+    "rituals_of_the_wilds:alchemy_cauldron"
+  ]
+}

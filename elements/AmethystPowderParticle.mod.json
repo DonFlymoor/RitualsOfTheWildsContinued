@@ -1,0 +1,23 @@
+{
+  "_fv": 66,
+  "_type": "particle",
+  "definition": {
+    "texture": "amethyst_powder_animated",
+    "animate": true,
+    "frameDuration": 5,
+    "width": 0.1,
+    "height": 0.1,
+    "scale": {
+      "fixedValue": 0.5
+    },
+    "speedFactor": 1.0,
+    "gravity": 0.4,
+    "maxAge": 10,
+    "maxAgeDiff": 3,
+    "angularVelocity": 0.025,
+    "angularAcceleration": 0.05,
+    "canCollide": true,
+    "alwaysShow": false,
+    "renderType": "OPAQUE"
+  }
+}

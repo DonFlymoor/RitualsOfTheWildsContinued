@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/frost_moss_block",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/frost_moss",
+    "particle": "rituals_of_the_wilds:block/frost_moss",
+    "0": "rituals_of_the_wilds:block/frost_moss"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rune_thing",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/yr_eldritch",
+    "particle": "rituals_of_the_wilds:block/yr_eldritch",
+    "0": "rituals_of_the_wilds:block/yr_eldritch"
+  },
+  "render_type": "cutout"
+}

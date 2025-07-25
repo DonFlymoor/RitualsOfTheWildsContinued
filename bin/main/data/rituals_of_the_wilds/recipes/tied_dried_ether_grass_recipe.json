@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rope"
+    },
+    "b": {
+      "item": "rituals_of_the_wilds:dried_ethergrass"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:tied_dried_ether_grass",
+    "count": 1
+  }
+}

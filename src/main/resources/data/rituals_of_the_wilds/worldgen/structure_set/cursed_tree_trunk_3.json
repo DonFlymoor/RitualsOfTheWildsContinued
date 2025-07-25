@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "rituals_of_the_wilds:cursed_tree_trunk_3",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 60,
+    "salt": 1051123145
+  }
+}

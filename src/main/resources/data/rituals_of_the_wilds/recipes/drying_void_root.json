@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:voidroot"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:dried_voidroot",
+    "count": 1
+  }
+}

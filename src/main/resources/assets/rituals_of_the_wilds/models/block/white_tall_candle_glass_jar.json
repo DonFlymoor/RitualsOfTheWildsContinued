@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/mediumjar_candle",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/medium_white_white_candle_jar",
+    "particle": "rituals_of_the_wilds:block/medium_white_white_candle_jar",
+    "3": "rituals_of_the_wilds:block/medium_white_white_candle_jar"
+  },
+  "render_type": "cutout"
+}

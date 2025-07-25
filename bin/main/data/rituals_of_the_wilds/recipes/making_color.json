@@ -1,0 +1,15 @@
+{
+  "type": "rituals_of_the_wilds:distilation_flask_recipes",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "tag": "forge:dyes"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:color_catalyst",
+    "count": 1
+  }
+}

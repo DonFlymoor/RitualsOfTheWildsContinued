@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:forge:rods/wooden"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:rods/wooden"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WoodenHammer"
+    },
+    "name": "wooden_hammer_recipe",
+    "namespace": "mod"
+  }
+}

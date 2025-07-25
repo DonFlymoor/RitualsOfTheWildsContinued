@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "rituals_of_the_wilds:alchemist_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 250,
+    "separation": 125,
+    "salt": 1501089994
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "rituals_of_the_wilds:block/corrupted_pressure_plate"
+    },
+    "powered=true": {
+      "model": "rituals_of_the_wilds:block/corrupted_pressure_plate_down"
+    }
+  }
+}

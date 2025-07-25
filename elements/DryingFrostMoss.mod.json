@@ -1,0 +1,16 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "drying_rack_recipes",
+    "result": {
+      "value": "CUSTOM:DriedFrostMoss"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:FrostMoss"
+      }
+    ]
+  }
+}

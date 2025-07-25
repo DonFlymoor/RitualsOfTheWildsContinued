@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rituals_of_the_wilds:block/pale_jear"
+    },
+    "facing=east": {
+      "model": "rituals_of_the_wilds:block/pale_jear",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rituals_of_the_wilds:block/pale_jear",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rituals_of_the_wilds:block/pale_jear",
+      "y": 270
+    }
+  }
+}

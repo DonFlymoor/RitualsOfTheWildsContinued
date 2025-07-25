@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "rituals_of_the_wilds:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:corrupted_slab",
+    "count": 6
+  }
+}

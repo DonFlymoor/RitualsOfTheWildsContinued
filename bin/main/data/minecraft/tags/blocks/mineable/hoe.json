@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "rituals_of_the_wilds:hay_bale_slab",
+    "rituals_of_the_wilds:hay_bale_wall",
+    "rituals_of_the_wilds:hay_bale_stairs"
+  ]
+}

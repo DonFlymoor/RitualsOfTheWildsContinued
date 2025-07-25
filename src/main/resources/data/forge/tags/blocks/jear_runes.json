@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rituals_of_the_wilds:ash_jear",
+    "rituals_of_the_wilds:blood_jear",
+    "rituals_of_the_wilds:bloom_jear",
+    "rituals_of_the_wilds:eldritch_jear",
+    "rituals_of_the_wilds:ember_jear",
+    "rituals_of_the_wilds:frost_jear",
+    "rituals_of_the_wilds:lunar_sap_jear",
+    "rituals_of_the_wilds:moonlight_jear",
+    "rituals_of_the_wilds:mushroom_jear",
+    "rituals_of_the_wilds:pale_jear",
+    "rituals_of_the_wilds:root_jear",
+    "rituals_of_the_wilds:rot_jear",
+    "rituals_of_the_wilds:shadow_jear",
+    "rituals_of_the_wilds:spirit_jear",
+    "rituals_of_the_wilds:storm_jear",
+    "rituals_of_the_wilds:tide_jear"
+  ]
+}

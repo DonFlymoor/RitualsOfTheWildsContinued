@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:capable_of_turning_into_rope"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:rope",
+    "count": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rituals_of_the_wilds:block/hay_bale_slab"
+    },
+    "type=top": {
+      "model": "rituals_of_the_wilds:block/hay_bale_slab_top"
+    },
+    "type=double": {
+      "model": "rituals_of_the_wilds:block/hay_bale_slab_full"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/empty_ink_bottle",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/empty_ink_bottle",
+    "particle": "rituals_of_the_wilds:block/empty_ink_bottle",
+    "0": "rituals_of_the_wilds:block/empty_ink_bottle"
+  },
+  "render_type": "cutout"
+}

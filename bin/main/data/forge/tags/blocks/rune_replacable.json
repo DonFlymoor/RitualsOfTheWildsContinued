@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:void_air",
+    "minecraft:cave_air",
+    "minecraft:light",
+    "minecraft:grass",
+    "minecraft:fire",
+    "minecraft:soul_fire",
+    "minecraft:vine",
+    "minecraft:glow_lichen"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Thornbloom"
+      },
+      {
+        "value": "CUSTOM:Witchthorn"
+      }
+    ],
+    "information": [
+      "This plant can be found on swamps.",
+      "Only can be harvested with leather gloves on."
+    ]
+  }
+}

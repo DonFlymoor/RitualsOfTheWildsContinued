@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_potting",
+        "plant": "mistcap_mushroom_block",
+        "dirt": "dirting"
+      },
+      "name": "default"
+    }
+  }
+}

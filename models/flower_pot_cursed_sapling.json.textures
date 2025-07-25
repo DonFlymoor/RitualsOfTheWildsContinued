@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_potting",
+        "plant": "corrupted_tree_sapling",
+        "dirt": "dirting"
+      },
+      "name": "default"
+    }
+  }
+}

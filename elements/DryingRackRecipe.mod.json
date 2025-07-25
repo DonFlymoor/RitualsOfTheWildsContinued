@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:rods/wooden"
+      },
+      {
+        "value": "TAG:forge:strings"
+      },
+      {
+        "value": "TAG:forge:rods/wooden"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DryingRack"
+    },
+    "name": "drying_rack_recipe",
+    "namespace": "mod"
+  }
+}

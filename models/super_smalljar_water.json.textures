@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "super_small_jar_texture_with_water"
+      },
+      "name": "default"
+    }
+  }
+}

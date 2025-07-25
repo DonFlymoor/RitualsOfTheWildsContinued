@@ -1,0 +1,235 @@
+{
+  "_fv": 66,
+  "_type": "blockstates",
+  "definition": {
+    "block": "FumeExtractor",
+    "blockstateList": [
+      {
+        "texture": "fume_extractor_2",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "fume_extractor:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 3.5,
+            "my": 0.01,
+            "mz": 3.5,
+            "Mx": 12.5,
+            "My": 1.01,
+            "Mz": 12.5,
+            "subtract": false
+          },
+          {
+            "mx": 5.0,
+            "my": 14.5,
+            "mz": 5.0,
+            "Mx": 11.0,
+            "My": 15.5,
+            "Mz": 11.0,
+            "subtract": false
+          },
+          {
+            "mx": 3.85,
+            "my": 4.35,
+            "mz": 3.85,
+            "Mx": 12.15,
+            "My": 14.65,
+            "Mz": 12.15,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 5.25,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 5.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 13.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 13.75,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 4.25,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 11.75,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 4.25,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 11.75,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 5.0,
+            "my": 1.0,
+            "mz": 5.0,
+            "Mx": 11.0,
+            "My": 3.0,
+            "Mz": 11.0,
+            "subtract": false
+          },
+          {
+            "mx": 6.0,
+            "my": 3.0,
+            "mz": 6.0,
+            "Mx": 10.0,
+            "My": 5.0,
+            "Mz": 10.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "fume_extractor_3",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "fume_extractor:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 3.5,
+            "my": 0.01,
+            "mz": 3.5,
+            "Mx": 12.5,
+            "My": 1.01,
+            "Mz": 12.5,
+            "subtract": false
+          },
+          {
+            "mx": 5.0,
+            "my": 14.5,
+            "mz": 5.0,
+            "Mx": 11.0,
+            "My": 15.5,
+            "Mz": 11.0,
+            "subtract": false
+          },
+          {
+            "mx": 3.85,
+            "my": 4.35,
+            "mz": 3.85,
+            "Mx": 12.15,
+            "My": 14.65,
+            "Mz": 12.15,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 5.25,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 5.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 13.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 13.75,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 4.25,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 11.75,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 4.25,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 4.25,
+            "subtract": false
+          },
+          {
+            "mx": 4.25,
+            "my": 4.75,
+            "mz": 11.75,
+            "Mx": 11.75,
+            "My": 14.25,
+            "Mz": 11.75,
+            "subtract": false
+          },
+          {
+            "mx": 5.0,
+            "my": 1.0,
+            "mz": 5.0,
+            "Mx": 11.0,
+            "My": 3.0,
+            "Mz": 11.0,
+            "subtract": false
+          },
+          {
+            "mx": 6.0,
+            "my": 3.0,
+            "mz": 6.0,
+            "Mx": 10.0,
+            "My": 5.0,
+            "Mz": 10.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

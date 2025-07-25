@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_blood_fern"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:blood_fern",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:powders/amethyst_powder"
+    },
+    {
+      "tag": "forge:bone"
+    },
+    {
+      "tag": "forge:ink_sac"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:stabilizing_powder",
+    "count": 1
+  }
+}

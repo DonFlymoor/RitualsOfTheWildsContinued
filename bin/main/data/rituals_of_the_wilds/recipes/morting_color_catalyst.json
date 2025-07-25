@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:mortar_and_pestle_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:color_catalyst"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:color_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "rituals_of_the_wilds:block/dreamvine_1",
+    "particle": "rituals_of_the_wilds:block/dreamvine_1"
+  },
+  "render_type": "cutout_mipped"
+}

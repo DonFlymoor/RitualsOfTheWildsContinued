@@ -1,0 +1,11 @@
+{
+  "parent": "rituals_of_the_wilds:custom/flower_pot_spiritbloom",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/spiritbloom_grown",
+    "particle": "rituals_of_the_wilds:block/flower_potting",
+    "flowerpot": "rituals_of_the_wilds:block/flower_potting",
+    "plant": "rituals_of_the_wilds:block/spiritbloom_grown",
+    "dirt": "rituals_of_the_wilds:block/dirting"
+  },
+  "render_type": "cutout_mipped"
+}

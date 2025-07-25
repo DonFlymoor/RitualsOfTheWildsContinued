@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brightrope",
+        "1": "rope_harness",
+        "2": "flask"
+      },
+      "name": "default"
+    }
+  }
+}

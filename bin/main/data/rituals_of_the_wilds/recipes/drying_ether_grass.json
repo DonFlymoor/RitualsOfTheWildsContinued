@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:ethergrass"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:dried_ethergrass",
+    "count": 1
+  }
+}

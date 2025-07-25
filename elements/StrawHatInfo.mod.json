@@ -1,0 +1,15 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:StrawHat"
+      }
+    ],
+    "information": [
+      "If you will click on it with empty main hand and no helmet you will equip it!",
+      "If you will click on it with amethyst powder you will summon Domovoi!"
+    ]
+  }
+}

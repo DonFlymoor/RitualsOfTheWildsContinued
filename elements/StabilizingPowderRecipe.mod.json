@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:powders/amethyst_powder"
+      },
+      {
+        "value": "TAG:forge:bone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:ink_sac"
+      },
+      {
+        "value": "TAG:forge:gems/amethyst"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StabilizingPowder"
+    },
+    "name": "stabilizing_powder_recipe",
+    "namespace": "mod"
+  }
+}

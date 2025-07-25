@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rope"
+    },
+    "b": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:distilation_flask",
+    "count": 1
+  }
+}

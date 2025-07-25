@@ -1,0 +1,262 @@
+{
+  "_fv": 66,
+  "_type": "blockstates",
+  "definition": {
+    "block": "CatalystGrinder",
+    "blockstateList": [
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_1:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_2:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_3:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_4:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_5:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_6:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_7:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_8:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_9:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_10:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "catalyst_grinder",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "catalyst_grinder_11:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 13.0,
+            "My": 13.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

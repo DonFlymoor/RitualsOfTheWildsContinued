@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:frost_moss"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:dried_frost_moss",
+    "count": 1
+  }
+}

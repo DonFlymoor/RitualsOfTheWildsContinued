@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:wooden_hammer"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:amethyst_powder",
+    "count": 1
+  }
+}

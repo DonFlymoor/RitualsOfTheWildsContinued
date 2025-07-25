@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:gems/diamond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CatalystGrinder"
+    },
+    "name": "catalyst_grinder_recipe",
+    "namespace": "mod"
+  }
+}

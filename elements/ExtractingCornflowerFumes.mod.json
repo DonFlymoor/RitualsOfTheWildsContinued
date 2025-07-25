@@ -1,0 +1,19 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "fume_extracting",
+    "result": {
+      "value": "CUSTOM:CornFlowerFumes"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:FumesBottle"
+      },
+      {
+        "value": "Blocks.CORNFLOWER"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:straw_block_for_straw_hat"
+    },
+    "b": {
+      "tag": "forge:straw_for_straw_hat"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:straw_hat",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:bone"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:bone_needle",
+    "count": 1
+  }
+}

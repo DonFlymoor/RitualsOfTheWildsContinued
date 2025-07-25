@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rope"
+    },
+    "b": {
+      "item": "rituals_of_the_wilds:dried_mistcap_mushroom"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:tied_dried_mistcap_mushroom",
+    "count": 1
+  }
+}

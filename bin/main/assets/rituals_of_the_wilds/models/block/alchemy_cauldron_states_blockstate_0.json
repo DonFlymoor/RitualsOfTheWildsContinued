@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/alchemy_cauldron",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/runic_cauldron",
+    "particle": "rituals_of_the_wilds:block/alchemy_cauldron",
+    "1": "rituals_of_the_wilds:block/runic_cauldron"
+  },
+  "render_type": "cutout_mipped"
+}

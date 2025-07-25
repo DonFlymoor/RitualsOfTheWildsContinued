@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "rituals_of_the_wilds:chernobog_castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 500,
+    "separation": 200,
+    "salt": 1579778458
+  }
+}

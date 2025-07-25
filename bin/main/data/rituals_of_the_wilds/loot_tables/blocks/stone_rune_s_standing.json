@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "rituals_of_the_wilds:blocks/stone_rune_s_standing",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "rituals_of_the_wilds:stone_rune_s"
+        }
+      ]
+    }
+  ]
+}

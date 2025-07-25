@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warped_forest",
+  "features": "rituals_of_the_wilds:ether_grass_generation",
+  "step": "surface_structures"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:iron_pressure_plate"
+    },
+    "b": {
+      "tag": "forge:ingots/iron"
+    },
+    "c": {
+      "tag": "forge:powders/amethyst_powder"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:alchemy_cauldron",
+    "count": 1
+  }
+}

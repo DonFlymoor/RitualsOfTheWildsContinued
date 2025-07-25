@@ -1,0 +1,21 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:UmbralGeode"
+      },
+      {
+        "value": "CUSTOM:WhiteCrystalShard"
+      },
+      {
+        "value": "CUSTOM:InscribingQuill"
+      }
+    ],
+    "information": [
+      "Made with alchemy cauldron.",
+      "Recipe to this can be found in alchemy scrolls."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "distilation_flask_recipes",
+    "result": {
+      "value": "CUSTOM:ColorCatalyst"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "TAG:forge:dyes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:rope"
+      },
+      {
+        "value": "CUSTOM:BloodFern"
+      },
+      {
+        "value": "CUSTOM:BloodFern"
+      },
+      {
+        "value": "CUSTOM:BloodFern"
+      },
+      {
+        "value": "CUSTOM:BloodFern"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TiedBloodFern"
+    },
+    "name": "tied_blood_fern_recipe",
+    "namespace": "mod"
+  }
+}

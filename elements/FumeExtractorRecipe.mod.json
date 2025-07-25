@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:iron_pressure_plate"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:iron_pressure_plate"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FumeExtractor"
+    },
+    "name": "fume_extractor_recipe",
+    "namespace": "mod"
+  }
+}

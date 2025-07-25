@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "rituals_of_the_wilds:tap_barrel",
+    "rituals_of_the_wilds:wooden_rune_base_standing",
+    "rituals_of_the_wilds:rune_scribing_table",
+    "rituals_of_the_wilds:corrupted_trapdoor",
+    "rituals_of_the_wilds:corrupted_door",
+    "rituals_of_the_wilds:corrupted_planks",
+    "rituals_of_the_wilds:corrupted_log",
+    "rituals_of_the_wilds:corrupted_wood",
+    "rituals_of_the_wilds:glass_enhanced_drying_rack",
+    "rituals_of_the_wilds:drying_rack"
+  ]
+}

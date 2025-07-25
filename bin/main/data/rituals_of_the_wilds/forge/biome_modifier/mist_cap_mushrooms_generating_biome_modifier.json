@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dark_forest",
+  "features": "rituals_of_the_wilds:mist_cap_mushrooms_generating",
+  "step": "surface_structures"
+}

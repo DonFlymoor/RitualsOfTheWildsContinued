@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "medium_white_candle_jar"
+      },
+      "name": "default"
+    }
+  }
+}

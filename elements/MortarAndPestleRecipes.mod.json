@@ -1,0 +1,31 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "mortar_pestle_jei.png",
+    "width": 136,
+    "height": 82,
+    "icon": {
+      "value": "CUSTOM:MortarAndPestle"
+    },
+    "craftingtable": {
+      "value": "CUSTOM:MortarAndPestle"
+    },
+    "enableCraftingtable": true,
+    "title": "Mortar And Pestle",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 25,
+        "y": 38,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 94,
+        "y": 38,
+        "slotid": 0
+      }
+    ]
+  }
+}

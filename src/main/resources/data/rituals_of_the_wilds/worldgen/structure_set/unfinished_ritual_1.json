@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "rituals_of_the_wilds:unfinished_ritual_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 500,
+    "separation": 100,
+    "salt": 426828960
+  }
+}

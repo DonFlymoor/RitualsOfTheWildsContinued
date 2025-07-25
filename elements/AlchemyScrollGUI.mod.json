@@ -1,0 +1,571 @@
+{
+  "_fv": 66,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 400,
+    "height": 200,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 2000,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 24,
+          "y": 170
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 51,
+          "y": 170
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 78,
+          "y": 170
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 105,
+          "y": 170
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 132,
+          "y": 170
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 132,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 105,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 7,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 78,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 8,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 51,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 9,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 24,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 10,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 114,
+          "y": 89
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 11,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 78,
+          "y": 53
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 12,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 105,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 13,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 51,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 14,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 42,
+          "y": 89
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 15,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 51,
+          "y": 116
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 16,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 105,
+          "y": 116
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 17,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 78,
+          "y": 125
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 18,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 384,
+          "y": 197
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 19,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 384,
+          "y": 175
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lower_block_scheme",
+          "text": {
+            "fixedValue": "Lower block diagram:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIflowerhas"
+          },
+          "x": 24,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_on_height_with_cauldron",
+          "text": {
+            "fixedValue": "(On height with cauldron)"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIflowerhas"
+          },
+          "x": 24,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_upper_block_scheme",
+          "text": {
+            "fixedValue": "Upper block diagram:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIfupperhas"
+          },
+          "x": 213,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_on_2_height_from_cauldron",
+          "text": {
+            "fixedValue": "(On +2 height from cauldron)"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIfupperhas"
+          },
+          "x": 213,
+          "y": 35
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 20,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 276,
+          "y": 53
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 21,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 249,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 22,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 240,
+          "y": 89
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 23,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 249,
+          "y": 116
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 24,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 276,
+          "y": 125
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 25,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 303,
+          "y": 116
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 26,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 312,
+          "y": 89
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 27,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 303,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 28,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 177,
+          "y": 89
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 29,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 384,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fill_type",
+          "text": {
+            "fixedValue": "Fill type:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 326,
+          "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_moonstage",
+          "text": {
+            "fixedValue": "Moonstage:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 325,
+          "y": 201
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cauldron_state",
+          "text": {
+            "fixedValue": "Cauldron state:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 300,
+          "y": 156
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alchemy_scroll_gui_all_things.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ShowWhenBoth"
+          },
+          "x": 14,
+          "y": 20
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alchemy_scroll_gui_no_both.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ShowWhenNoBoth"
+          },
+          "x": 14,
+          "y": 20
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alchemy_scroll_gui_no_lower.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "UpperShow"
+          },
+          "x": 14,
+          "y": 20
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alchemy_scroll_gui_no_upper.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "LowerShow"
+          },
+          "x": 14,
+          "y": 20
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ingredient_order",
+          "text": {
+            "fixedValue": "Ingredient order:"
+          },
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "x": 21,
+          "y": 158
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "compass_thingy_alchmey.png",
+          "use1Xscale": false,
+          "x": 204,
+          "y": 147
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

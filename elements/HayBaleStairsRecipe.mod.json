@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HayBaleStairs"
+    },
+    "name": "hay_bale_stairs_recipe",
+    "namespace": "mod"
+  }
+}

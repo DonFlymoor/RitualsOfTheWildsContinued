@@ -1,0 +1,9 @@
+{
+  "_fv": 66,
+  "_type": "function",
+  "definition": {
+    "code": "tellraw @s \"<Chernobog> Power is never forbidden. Only unpriced. There is no sin in corruption — only transformation. Fire does not ask if it may burn. Neither do I.  Accept this: nothing remains pure when it grows. Roots rot. Flesh cracks. Mind fractures. But what survives... is sharpened. Tempered in suffering.  I will give you power. Not clean. Not safe. But yours. And through it, you will understand why purity is weakness.\"\nrituals_of_the_wilds:adddonequest @s chernobog_power_got_with_scroll\ngiveritualscroll @s 20",
+    "name": "chernobogpower",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "_fv": 66,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ssm",
+          "text": {
+            "fixedValue": "§m                                      "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIfNameIsTrue"
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 1,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_quest_name",
+          "text": {
+            "fixedValue": "",
+            "name": "QuestName"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShowIfNameIsTrue"
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 1,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_quest_text_line_1",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowQuestTextLine1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 14
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_quest_text_line_2",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowQuestTextLine2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 25
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_quest_text_line_3",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowQuestTextLine3"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_quest_text_line_4",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowQuestTextLine4"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_quest_text_line_5",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowQuestTextLine5"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_show_killed_already",
+          "text": {
+            "fixedValue": "",
+            "name": "ShowKilledAlready"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 11,
+          "y": 68
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ShowQuests"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

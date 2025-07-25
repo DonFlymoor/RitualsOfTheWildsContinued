@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "I",
+    "keyBindingName": "Scroll Quests",
+    "keyBindingCategoryKey": "rituals_of_the_wilds",
+    "onKeyPressed": {
+      "name": "ScrollQuestsOnKeyPressed"
+    }
+  }
+}

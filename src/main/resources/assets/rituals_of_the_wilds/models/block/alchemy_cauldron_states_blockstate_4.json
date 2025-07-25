@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/no_rune_cauldron_lava",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/alchemy_cauldron_lava",
+    "particle": "rituals_of_the_wilds:block/alchemy_cauldron",
+    "0": "rituals_of_the_wilds:block/alchemy_cauldron_lava"
+  },
+  "render_type": "cutout_mipped"
+}

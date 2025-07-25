@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rituals_of_the_wilds:item/cooked_clay_rune_x"
+  }
+}

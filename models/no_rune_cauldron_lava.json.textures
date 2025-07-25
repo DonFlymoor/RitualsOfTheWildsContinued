@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "alchemy_cauldron_lava"
+      },
+      "name": "default"
+    }
+  }
+}

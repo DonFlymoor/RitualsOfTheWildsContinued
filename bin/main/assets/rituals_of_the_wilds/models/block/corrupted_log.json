@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rituals_of_the_wilds:block/corrupted_log_top",
+    "up": "rituals_of_the_wilds:block/corrupted_log_top",
+    "north": "rituals_of_the_wilds:block/corrupted_log",
+    "east": "rituals_of_the_wilds:block/corrupted_log",
+    "south": "rituals_of_the_wilds:block/corrupted_log",
+    "west": "rituals_of_the_wilds:block/corrupted_log",
+    "particle": "rituals_of_the_wilds:block/corrupted_log_top"
+  },
+  "render_type": "solid"
+}

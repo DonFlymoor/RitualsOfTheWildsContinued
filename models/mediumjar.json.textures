@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "medium_jar_texture"
+      },
+      "name": "default"
+    }
+  }
+}

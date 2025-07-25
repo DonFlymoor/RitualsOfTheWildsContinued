@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_dried_suns_tear"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:dried_suns_tear",
+    "count": 4
+  }
+}

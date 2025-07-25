@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rope",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/brightrope",
+    "particle": "rituals_of_the_wilds:block/brightrope",
+    "0": "rituals_of_the_wilds:block/brightrope"
+  },
+  "render_type": "solid"
+}

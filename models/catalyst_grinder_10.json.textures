@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "catalyst_grinder"
+      },
+      "name": "default"
+    }
+  }
+}

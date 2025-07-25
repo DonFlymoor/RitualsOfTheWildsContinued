@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:mortar_and_pestle_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:cryorite_gem"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:cryorite_powder",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "rituals_of_the_wilds:custom/flower_pot_blood_fern",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/bloodfern_3",
+    "particle": "rituals_of_the_wilds:block/flower_potting",
+    "flowerpot": "rituals_of_the_wilds:block/flower_potting",
+    "plant": "rituals_of_the_wilds:block/bloodfern_3",
+    "dirt": "rituals_of_the_wilds:block/nether_thing"
+  },
+  "render_type": "cutout_mipped"
+}

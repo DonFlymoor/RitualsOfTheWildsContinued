@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dark_forest",
+  "features": "rituals_of_the_wilds:spirit_bloom_generation",
+  "step": "surface_structures"
+}

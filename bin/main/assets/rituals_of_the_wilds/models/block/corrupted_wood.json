@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/corrupted_log",
+    "particle": "rituals_of_the_wilds:block/corrupted_log"
+  },
+  "render_type": "solid"
+}

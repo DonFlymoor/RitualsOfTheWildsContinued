@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rituals_of_the_wilds:item/closed_scroll"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "rituals_of_the_wilds:ritual_scroll_has_been_opened": 1
+      },
+      "model": "rituals_of_the_wilds:item/ritual_scroll_0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "rituals_of_the_wilds:chernobog_castle_chernobog_lower",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "rituals_of_the_wilds:chernobog_castle_lower",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

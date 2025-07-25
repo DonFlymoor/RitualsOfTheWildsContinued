@@ -1,0 +1,26 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "From War To Life",
+    "rarity": "UNCOMMON",
+    "texture": "music_disc_from_war_to_life",
+    "description": "Jenki - From War To Life",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:RitualsOfTheWilds"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:music_from_war_to_life"
+    },
+    "lengthInTicks": 2000,
+    "analogOutput": 6
+  }
+}

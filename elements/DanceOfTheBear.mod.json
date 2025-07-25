@@ -1,0 +1,26 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Dance Of The Bear",
+    "rarity": "COMMON",
+    "texture": "music_disc_bear_dance",
+    "description": "Jenki - Dance of the Bear",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:RitualsOfTheWilds"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:music_dance_of_the_bear"
+    },
+    "lengthInTicks": 4400,
+    "analogOutput": 6
+  }
+}

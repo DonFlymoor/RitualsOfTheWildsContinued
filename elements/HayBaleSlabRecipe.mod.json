@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 32,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      },
+      {
+        "value": "TAG:forge:hay_bale_item"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HayBaleSlab"
+    },
+    "name": "hay_bale_slab_recipe",
+    "namespace": "mod"
+  }
+}

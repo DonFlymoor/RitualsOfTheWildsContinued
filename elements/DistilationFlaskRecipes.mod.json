@@ -1,0 +1,37 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "distilation_flask_jei.png",
+    "width": 136,
+    "height": 82,
+    "icon": {
+      "value": "CUSTOM:DistilationFlask"
+    },
+    "craftingtable": {
+      "value": "CUSTOM:DistilationFlask"
+    },
+    "enableCraftingtable": true,
+    "title": "Distilation",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 25,
+        "y": 51,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 25,
+        "y": 21,
+        "slotid": 1
+      },
+      {
+        "type": "OUTPUT",
+        "x": 94,
+        "y": 21,
+        "slotid": 0
+      }
+    ]
+  }
+}

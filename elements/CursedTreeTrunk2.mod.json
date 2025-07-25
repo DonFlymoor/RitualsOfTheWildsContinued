@@ -1,0 +1,33 @@
+{
+  "_fv": 66,
+  "_type": "structure",
+  "definition": {
+    "structure": "tree_trunk_2",
+    "projection": "terrain_matching",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 120,
+    "separation": 70,
+    "restrictionBiomes": [
+      {
+        "value": "roofed_forest"
+      }
+    ],
+    "terrainAdaptation": "none",
+    "generationStep": "VEGETAL_DECORATION",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

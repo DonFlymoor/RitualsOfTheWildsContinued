@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:aether_blob"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:aether_crystalized",
+    "count": 1
+  }
+}

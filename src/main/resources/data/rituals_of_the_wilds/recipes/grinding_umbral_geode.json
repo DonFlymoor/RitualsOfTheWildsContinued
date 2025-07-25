@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:catalyst_grinder_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:umbral_geode"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:umbral_crystal",
+    "count": 1
+  }
+}

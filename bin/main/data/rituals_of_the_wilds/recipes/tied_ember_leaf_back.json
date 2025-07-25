@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_ember_leaf"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:ember_leaf_berry",
+    "count": 4
+  }
+}

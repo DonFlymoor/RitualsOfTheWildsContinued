@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/super_smalljar_water",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/super_small_jar_texture_with_water",
+    "particle": "rituals_of_the_wilds:block/super_small_jar_texture_with_water",
+    "4": "rituals_of_the_wilds:block/super_small_jar_texture_with_water"
+  },
+  "render_type": "cutout"
+}

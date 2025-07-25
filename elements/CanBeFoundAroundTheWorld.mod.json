@@ -1,0 +1,23 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:DanceOfTheBear"
+      },
+      {
+        "value": "CUSTOM:NullHeart"
+      },
+      {
+        "value": "CUSTOM:FromWarToLife"
+      },
+      {
+        "value": "CUSTOM:OldCeramicPot"
+      }
+    ],
+    "information": [
+      "Can be found in structures."
+    ]
+  }
+}

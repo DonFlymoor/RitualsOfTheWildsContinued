@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:glass_panes"
+    },
+    "b": {
+      "tag": "forge:rods/wooden"
+    },
+    "c": {
+      "tag": "forge:strings"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:glass_enhanced_drying_rack",
+    "count": 1
+  }
+}

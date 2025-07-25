@@ -1,0 +1,346 @@
+{
+  "_fv": 66,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 500,
+    "height": 253,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_talking_with",
+          "text": {
+            "fixedValue": "",
+            "name": "TalkingWith"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -21,
+          "y": -2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_first_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "FirstLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 13
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_second_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "SecondLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 23
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_third_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "ThirdLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 33
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_fourth_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "FourthLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 43
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_fifth_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "FifthLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_sixth_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "SixthLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 63
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_seventh_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "SeventhLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_eight_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "EightLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_nine_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "NineLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_tenth_line_of_text",
+          "text": {
+            "fixedValue": "",
+            "name": "TenthLineOfText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": -12,
+          "y": 103
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "FirstAnswerThing"
+          },
+          "displayCondition": {
+            "name": "FirstAnswerQuestNeeded"
+          },
+          "width": 441,
+          "height": 20,
+          "x": -12,
+          "y": 163
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_first_answer",
+          "text": {
+            "fixedValue": "",
+            "name": "FirstAnswer"
+          },
+          "color": {
+            "value": -3342337,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "FirstAnswerQuestNeeded"
+          },
+          "x": -12,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "SecondAnswerThing"
+          },
+          "displayCondition": {
+            "name": "SecondAnswerQuestNeeded"
+          },
+          "width": 441,
+          "height": 20,
+          "x": -12,
+          "y": 183
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_second_answer",
+          "text": {
+            "fixedValue": "",
+            "name": "SecondAnswer"
+          },
+          "color": {
+            "value": -3342337,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "SecondAnswerQuestNeeded"
+          },
+          "x": -12,
+          "y": 188
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty2",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "ThirdAnswerThing"
+          },
+          "displayCondition": {
+            "name": "ThirdAnswerQuestNeeded"
+          },
+          "width": 441,
+          "height": 20,
+          "x": -12,
+          "y": 203
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_third_answer",
+          "text": {
+            "fixedValue": "",
+            "name": "ThirdAnswer"
+          },
+          "color": {
+            "value": -3342337,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ThirdAnswerQuestNeeded"
+          },
+          "x": -12,
+          "y": 208
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty3",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "FourthAnswerThing"
+          },
+          "displayCondition": {
+            "name": "FourthAnswerQuestNeeded"
+          },
+          "width": 450,
+          "height": 20,
+          "x": -12,
+          "y": 223
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_fourth_answer",
+          "text": {
+            "fixedValue": "",
+            "name": "FourthAnswer"
+          },
+          "color": {
+            "value": -3342337,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "FourthAnswerQuestNeeded"
+          },
+          "x": -12,
+          "y": 228
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 10,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:rods/wooden"
+    },
+    "b": {
+      "tag": "forge:strings"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:drying_rack",
+    "count": 1
+  }
+}

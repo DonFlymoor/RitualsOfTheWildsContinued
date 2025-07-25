@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rituals_of_the_wilds:item/rot_ink"
+  }
+}

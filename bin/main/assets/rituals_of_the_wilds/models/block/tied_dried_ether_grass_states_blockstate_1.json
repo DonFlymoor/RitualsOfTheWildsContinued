@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/driedherblay",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/dried_ether_grass_hanging_texture",
+    "particle": "rituals_of_the_wilds:block/dried_ether_grass_hanging_texture",
+    "2": "rituals_of_the_wilds:block/dried_ether_grass_hanging_texture"
+  },
+  "render_type": "cutout"
+}

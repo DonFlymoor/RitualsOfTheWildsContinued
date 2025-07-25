@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "rituals_of_the_wilds:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:corrupted_door",
+    "count": 3
+  }
+}

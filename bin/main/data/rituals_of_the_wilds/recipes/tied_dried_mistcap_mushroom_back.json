@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_dried_mistcap_mushroom"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:dried_mistcap_mushroom",
+    "count": 4
+  }
+}

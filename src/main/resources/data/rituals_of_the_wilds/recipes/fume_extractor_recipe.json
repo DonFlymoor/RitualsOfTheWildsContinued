@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "tag": "forge:iron_pressure_plate"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:fume_extractor",
+    "count": 1
+  }
+}

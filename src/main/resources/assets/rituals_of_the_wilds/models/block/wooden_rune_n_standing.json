@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rune",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/wood_n",
+    "particle": "rituals_of_the_wilds:block/wood_n",
+    "0": "rituals_of_the_wilds:block/wood_n"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rituals_of_the_wilds:dried_frost_moss",
+    "rituals_of_the_wilds:dried_thornbloom",
+    "rituals_of_the_wilds:dried_voidroot",
+    "rituals_of_the_wilds:dried_witchthorn",
+    "minecraft:wheat",
+    "minecraft:vine"
+  ]
+}

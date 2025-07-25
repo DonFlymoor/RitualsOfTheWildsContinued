@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:tied_dried_dream_vine"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:dried_dream_vine",
+    "count": 4
+  }
+}

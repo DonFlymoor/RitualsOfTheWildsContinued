@@ -1,0 +1,11 @@
+{
+  "parent": "rituals_of_the_wilds:custom/flower_pot_ember_leaf",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/ember_leaf_grown",
+    "particle": "rituals_of_the_wilds:block/flower_potting",
+    "flowerpot": "rituals_of_the_wilds:block/flower_potting",
+    "plant": "rituals_of_the_wilds:block/ember_leaf_grown",
+    "dirt": "rituals_of_the_wilds:block/sandy"
+  },
+  "render_type": "cutout_mipped"
+}

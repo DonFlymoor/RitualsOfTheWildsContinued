@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rituals_of_the_wilds:block/netherrack_rune_b_standing"
+    },
+    "facing=east": {
+      "model": "rituals_of_the_wilds:block/netherrack_rune_b_standing",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rituals_of_the_wilds:block/netherrack_rune_b_standing",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rituals_of_the_wilds:block/netherrack_rune_b_standing",
+      "y": 270
+    }
+  }
+}

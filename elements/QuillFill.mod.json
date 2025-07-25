@@ -1,0 +1,110 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:BloodInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:AshInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:BloomInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:EldritchInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:EmberInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:FrostInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:LunarSapInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:MoonlightInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:MushroomInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:PaleInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:RootInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:RotInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:ShadowInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:SpiritInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:StormInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:TideInkInscribingQuill"
+      },
+      {
+        "value": "CUSTOM:InscribingQuill"
+      },
+      {
+        "value": "CUSTOM:BloodInkBottle"
+      },
+      {
+        "value": "CUSTOM:AshInkBottle"
+      },
+      {
+        "value": "CUSTOM:BloomInkBottle"
+      },
+      {
+        "value": "CUSTOM:EldritchInkBottle"
+      },
+      {
+        "value": "CUSTOM:EmberInkBottle"
+      },
+      {
+        "value": "CUSTOM:FrostInkBottle"
+      },
+      {
+        "value": "CUSTOM:LunarSapInkBottle"
+      },
+      {
+        "value": "CUSTOM:MoonlightInkBottle"
+      },
+      {
+        "value": "CUSTOM:MushroomInkBottle"
+      },
+      {
+        "value": "CUSTOM:PaleInkBottle"
+      },
+      {
+        "value": "CUSTOM:RootInkBottle"
+      },
+      {
+        "value": "CUSTOM:RotInkBottle"
+      },
+      {
+        "value": "CUSTOM:ShadowInkBottle"
+      },
+      {
+        "value": "CUSTOM:SpiritInkBottle"
+      },
+      {
+        "value": "CUSTOM:StormInkBottle"
+      },
+      {
+        "value": "CUSTOM:TideInkBottle"
+      }
+    ],
+    "information": [
+      "With inscribing quill in main hand and ink  bottle in off hand you can dip quill in that ink with right click."
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:mortar_and_pestle_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:white_crystal_shard"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:white_crystal_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "rituals_of_the_wilds:block/corrupted_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "rituals_of_the_wilds:block/corrupted_wood"
+    },
+    "axis=z": {
+      "model": "rituals_of_the_wilds:block/corrupted_wood",
+      "x": 90
+    }
+  }
+}

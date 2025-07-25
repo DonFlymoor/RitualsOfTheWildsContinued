@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dark_forest",
+  "features": "rituals_of_the_wilds:void_root_generating",
+  "step": "surface_structures"
+}

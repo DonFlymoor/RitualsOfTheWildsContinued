@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:dream_vine"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:dried_dream_vine",
+    "count": 1
+  }
+}

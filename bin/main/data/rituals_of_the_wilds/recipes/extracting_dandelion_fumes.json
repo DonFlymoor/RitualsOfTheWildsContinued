@@ -1,0 +1,15 @@
+{
+  "type": "rituals_of_the_wilds:fume_extracting",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:fumes_bottle"
+    },
+    {
+      "item": "minecraft:dandelion"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:dandelion_fumes",
+    "count": 1
+  }
+}

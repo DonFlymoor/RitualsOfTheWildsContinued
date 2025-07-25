@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": "TAG:forge:wooden_slabs"
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EmptyVial"
+    },
+    "name": "vial_recipe",
+    "namespace": "mod"
+  }
+}

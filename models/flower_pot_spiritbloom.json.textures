@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_potting",
+        "plant": "spiritbloom_grown",
+        "dirt": "dirting"
+      },
+      "name": "default"
+    }
+  }
+}

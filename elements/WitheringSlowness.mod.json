@@ -1,0 +1,9 @@
+{
+  "_fv": 66,
+  "_type": "function",
+  "definition": {
+    "code": "effect give @e[distance=..5] minecraft:wither 15 0 true\neffect give @e[distance=..5] minecraft:slowness 20 1 true\neffect clear @s minecraft:wither\neffect clear @s minecraft:slowness",
+    "name": "withering_slowness",
+    "namespace": "mod"
+  }
+}

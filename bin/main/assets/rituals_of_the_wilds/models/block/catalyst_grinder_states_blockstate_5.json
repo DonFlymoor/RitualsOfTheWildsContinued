@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/catalyst_grinder_6",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/catalyst_grinder",
+    "particle": "rituals_of_the_wilds:block/catalyst_grinder",
+    "1": "rituals_of_the_wilds:block/catalyst_grinder"
+  },
+  "render_type": "solid"
+}

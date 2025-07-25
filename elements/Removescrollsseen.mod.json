@@ -1,0 +1,10 @@
+{
+  "_fv": 66,
+  "_type": "command",
+  "definition": {
+    "commandName": "rituals_of_the_wilds:removeritualscrollseen",
+    "type": "STANDARD",
+    "permissionLevel": "2",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"entity\"><field name=\"name\">setting_to</field><field name=\"type\">entity</field><statement name=\"args\"><block type=\"number_min_max\"><field name=\"name\">scroll_id</field><field name=\"min\">0</field><field name=\"max\">500</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">RemoveScrollseen</field></block></statement></block></statement></block></next></block></xml>"
+  }
+}

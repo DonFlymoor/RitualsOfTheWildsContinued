@@ -1,0 +1,60 @@
+{
+  "music_dance_of_the_bear": {
+    "subtitle": "subtitles.music_dance_of_the_bear",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:jenki_dance_of_the_bear",
+        "stream": true
+      }
+    ]
+  },
+  "chernobog_step": {
+    "subtitle": "subtitles.chernobog_step",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:chernobog_step",
+        "stream": false
+      },
+      {
+        "name": "rituals_of_the_wilds:chernobog_step_2",
+        "stream": false
+      }
+    ]
+  },
+  "chernobog_living": {
+    "subtitle": "subtitles.chernobog_living",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:chernobog_living",
+        "stream": false
+      }
+    ]
+  },
+  "chernobog_death": {
+    "subtitle": "subtitles.chernobog_death",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:chernobog_death",
+        "stream": false
+      }
+    ]
+  },
+  "chernobog_hurt": {
+    "subtitle": "subtitles.chernobog_hurt",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:chernobog_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "music_from_war_to_life": {
+    "subtitle": "subtitles.music_from_war_to_life",
+    "sounds": [
+      {
+        "name": "rituals_of_the_wilds:jenki_from_war_to_life",
+        "stream": true
+      }
+    ]
+  }
+}

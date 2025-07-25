@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rituals_of_the_wilds:block/lunar_sap_yr"
+    },
+    "facing=east": {
+      "model": "rituals_of_the_wilds:block/lunar_sap_yr",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rituals_of_the_wilds:block/lunar_sap_yr",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rituals_of_the_wilds:block/lunar_sap_yr",
+      "y": 270
+    }
+  }
+}

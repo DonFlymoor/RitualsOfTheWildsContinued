@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/corrupted_leaves",
+    "particle": "rituals_of_the_wilds:block/corrupted_leaves"
+  }
+}

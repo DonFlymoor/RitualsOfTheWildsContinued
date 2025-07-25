@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rituals_of_the_wilds:block/distilation_flask"
+    },
+    "facing=east": {
+      "model": "rituals_of_the_wilds:block/distilation_flask",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rituals_of_the_wilds:block/distilation_flask",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rituals_of_the_wilds:block/distilation_flask",
+      "y": 270
+    }
+  }
+}

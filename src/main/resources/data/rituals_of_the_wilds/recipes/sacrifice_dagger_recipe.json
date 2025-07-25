@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "ba ",
+    "cb "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "tag": "forge:leathers"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:ritual_dagger",
+    "count": 1
+  }
+}

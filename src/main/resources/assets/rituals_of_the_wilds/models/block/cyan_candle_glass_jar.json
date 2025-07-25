@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/jar_with_candle",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/cyan_candle_normal_jar",
+    "particle": "rituals_of_the_wilds:block/cyan_candle_normal_jar",
+    "3": "rituals_of_the_wilds:block/cyan_candle_normal_jar"
+  },
+  "render_type": "cutout"
+}

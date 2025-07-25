@@ -1,0 +1,10 @@
+{
+  "parent": "rituals_of_the_wilds:custom/mortar_and_pestle",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/mortar_and_pestle",
+    "particle": "rituals_of_the_wilds:block/mortar_and_pestle",
+    "0": "rituals_of_the_wilds:block/mortar_and_pestle",
+    "1": "rituals_of_the_wilds:block/mortar_and_pestle_1"
+  },
+  "render_type": "cutout"
+}

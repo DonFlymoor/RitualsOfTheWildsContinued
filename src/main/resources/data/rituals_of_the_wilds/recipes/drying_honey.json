@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:drying_rack_recipes",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:honey_stones",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    "a a",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:fumes_bottle",
+    "count": 4
+  }
+}

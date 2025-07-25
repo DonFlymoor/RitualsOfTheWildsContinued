@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/smalljar",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/jar_texture",
+    "particle": "rituals_of_the_wilds:block/jar_texture",
+    "0": "rituals_of_the_wilds:block/jar_texture"
+  },
+  "render_type": "cutout"
+}

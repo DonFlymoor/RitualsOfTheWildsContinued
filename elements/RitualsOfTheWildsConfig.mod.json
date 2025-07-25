@@ -1,0 +1,263 @@
+{
+  "_fv": 66,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Recipes AutoRegen",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in alchemy cauldron(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Auto Regenerate Alchemy Cauldron recipes",
+            "varname": "AlchemyCauldronRecipesRegen",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod basic ingredients in alchemy cauldron, catalyst grinder, fume extractor, distilation flask(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Auto Regenerate Ingredients possible to put in some blocks",
+            "varname": "AutoRegenIngredientsTab",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in drying rack(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Auto Regenerate Drying Rack recipes",
+            "varname": "DryingRackRecipesRegen",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in mortar and pestle(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Mortal and Pestle recipes",
+            "varname": "MortarAndPestleRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in catalyst grinder(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Catalyst Grinder recipes",
+            "varname": "CatalystGrinderRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in distilation flask(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Distilation Flask recipes",
+            "varname": "DistilationFlaskRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in rune scriber table(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Rune Scriber Table recipes",
+            "varname": "RuneScriberTableRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod recipes in fume extractor(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Fume Extractor recipes",
+            "varname": "FumeExtractorRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all mod rituals(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Rituals",
+            "varname": "RitualRecipesRegenerate",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all things that you can put in jars(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Items that you can put in jars",
+            "varname": "AutoRegenJarTab",
+            "enablecomment": true,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Timers",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 4800.0,
+            "textDefault": "",
+            "comment": "Ticks(20 ticks = 1 second) needed to dry item that's on drying rack",
+            "vardisplay": "Drying Rack Time to Dry Item",
+            "varname": "DryingTime",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 2400.0,
+            "textDefault": "",
+            "comment": "Ticks(20 ticks = 1 second) needed to sacrifices that was made to become zero",
+            "vardisplay": "Time for sacrifices to become zero",
+            "varname": "TimeSacrificesLeft",
+            "enablecomment": false,
+            "stringlist": []
+          }
+        ]
+      },
+      {
+        "category": "Regenerating all other stuff",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all basic mod dialogues that's in this mod(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Dialogues",
+            "varname": "AutoRegenDialogues",
+            "enablecomment": true,
+            "stringlist": []
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Regenerates all basic mod quests that's in this mod(Turn off only if you don't need ones that's by default in mod or if you want to edit it)",
+            "vardisplay": "Regenerate Quests",
+            "varname": "AutoRegenQuests",
+            "enablecomment": true,
+            "stringlist": []
+          }
+        ]
+      }
+    ],
+    "file": "Rituals Of The Wilds Continued",
+    "configType": 0
+  }
+}

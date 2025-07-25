@@ -1,0 +1,16 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "catalyst_grinder_recipes",
+    "result": {
+      "value": "CUSTOM:UmbralCrystal"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:UmbralGeode"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:forge:rope"
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": "TAG:forge:rope"
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": "TAG:forge:rope"
+      },
+      {
+        "value": "TAG:forge:glass"
+      },
+      {
+        "value": "TAG:forge:rope"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DistilationFlask"
+    },
+    "name": "distilation_flask_recipe",
+    "namespace": "mod"
+  }
+}

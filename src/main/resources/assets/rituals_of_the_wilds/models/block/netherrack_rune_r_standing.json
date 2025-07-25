@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/rune",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/r_netherrack_rune",
+    "particle": "rituals_of_the_wilds:block/r_netherrack_rune",
+    "0": "rituals_of_the_wilds:block/r_netherrack_rune"
+  },
+  "render_type": "cutout"
+}

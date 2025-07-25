@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "rituals_of_the_wilds:block/glass_enhanced_drying_rack"
+    },
+    "blockstate=1": {
+      "model": "rituals_of_the_wilds:block/fast_stacks_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "rituals_of_the_wilds:block/fast_stacks_blockstate_1"
+    }
+  }
+}

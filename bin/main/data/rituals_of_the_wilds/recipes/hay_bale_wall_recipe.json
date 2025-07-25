@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:hay_bale_item"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:hay_bale_wall",
+    "count": 16
+  }
+}

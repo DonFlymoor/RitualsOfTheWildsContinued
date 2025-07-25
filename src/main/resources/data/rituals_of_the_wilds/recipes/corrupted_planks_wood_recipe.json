@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "rituals_of_the_wilds:corrupted_wood"
+    }
+  ],
+  "result": {
+    "item": "rituals_of_the_wilds:corrupted_planks",
+    "count": 4
+  }
+}

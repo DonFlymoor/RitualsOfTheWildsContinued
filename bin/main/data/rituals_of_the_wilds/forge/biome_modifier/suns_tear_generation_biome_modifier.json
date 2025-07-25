@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "desert",
+    "badlands"
+  ],
+  "features": "rituals_of_the_wilds:suns_tear_generation",
+  "step": "surface_structures"
+}

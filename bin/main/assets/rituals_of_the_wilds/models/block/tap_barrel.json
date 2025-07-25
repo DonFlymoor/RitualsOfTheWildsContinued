@@ -1,0 +1,10 @@
+{
+  "parent": "rituals_of_the_wilds:custom/big_barrel",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/big_barrel",
+    "particle": "rituals_of_the_wilds:block/big_barrel",
+    "0": "rituals_of_the_wilds:block/tap",
+    "3": "rituals_of_the_wilds:block/big_barrel"
+  },
+  "render_type": "cutout"
+}

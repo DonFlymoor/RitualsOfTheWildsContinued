@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:nuggets/iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      },
+      {
+        "value": "TAG:forge:wooden_slabs"
+      },
+      {
+        "value": "TAG:minecraft:planks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TapBarrel"
+    },
+    "name": "tap_barrel_recipe",
+    "namespace": "mod"
+  }
+}

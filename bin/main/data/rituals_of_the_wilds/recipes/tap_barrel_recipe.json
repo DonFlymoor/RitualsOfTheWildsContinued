@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:nuggets/iron"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "tag": "forge:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:tap_barrel",
+    "count": 1
+  }
+}

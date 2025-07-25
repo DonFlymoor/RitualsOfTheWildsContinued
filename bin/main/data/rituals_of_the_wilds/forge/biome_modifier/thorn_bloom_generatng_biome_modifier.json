@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "features": "rituals_of_the_wilds:thorn_bloom_generatng",
+  "step": "surface_structures"
+}

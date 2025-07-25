@@ -1,0 +1,9 @@
+{
+  "parent": "rituals_of_the_wilds:custom/straw_hat",
+  "textures": {
+    "all": "rituals_of_the_wilds:block/domovoy",
+    "particle": "rituals_of_the_wilds:block/domovoy",
+    "0": "rituals_of_the_wilds:block/domovoy"
+  },
+  "render_type": "solid"
+}

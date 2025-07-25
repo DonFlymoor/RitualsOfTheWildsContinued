@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:wooden_slabs"
+    },
+    "b": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:glass_jar",
+    "count": 1
+  }
+}

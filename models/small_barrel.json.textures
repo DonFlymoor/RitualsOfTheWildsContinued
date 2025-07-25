@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tap",
+        "5": "small_barrel"
+      },
+      "name": "default"
+    }
+  }
+}

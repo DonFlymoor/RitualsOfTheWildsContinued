@@ -1,0 +1,23 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:DreamVine"
+      },
+      {
+        "value": "CUSTOM:MistcapMushroom"
+      },
+      {
+        "value": "CUSTOM:Voidroot"
+      },
+      {
+        "value": "CUSTOM:Spiritbloom"
+      }
+    ],
+    "information": [
+      "This plant can be found in dark forest."
+    ]
+  }
+}

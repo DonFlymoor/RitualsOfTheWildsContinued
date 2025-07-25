@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "desert",
+    "badlands"
+  ],
+  "features": "rituals_of_the_wilds:ember_leaf_generation",
+  "step": "surface_structures"
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_potting",
+        "plant": "void_root_3",
+        "dirt": "dirting"
+      },
+      "name": "default"
+    }
+  }
+}

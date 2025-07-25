@@ -1,0 +1,12 @@
+{
+  "type": "rituals_of_the_wilds:mortar_and_pestle_recipes",
+  "ingredients": [
+    {
+      "tag": "forge:netherrack"
+    }
+  ],
+  "output": {
+    "item": "rituals_of_the_wilds:netherrack_dust",
+    "count": 1
+  }
+}

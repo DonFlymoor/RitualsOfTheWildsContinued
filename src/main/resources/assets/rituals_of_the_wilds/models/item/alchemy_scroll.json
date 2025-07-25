@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rituals_of_the_wilds:item/closed_alchemy_scroll"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "rituals_of_the_wilds:alchemy_scroll_alchemynameisthere": 1
+      },
+      "model": "rituals_of_the_wilds:item/alchemy_scroll_0"
+    }
+  ]
+}

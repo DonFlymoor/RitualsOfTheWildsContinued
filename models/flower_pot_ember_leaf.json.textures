@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "flowerpot": "flower_potting",
+        "plant": "ember_leaf_grown",
+        "dirt": "sandy"
+      },
+      "name": "default"
+    }
+  }
+}

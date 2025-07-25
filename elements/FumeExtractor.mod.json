@@ -1,0 +1,236 @@
+{
+  "_fv": 66,
+  "_type": "block",
+  "definition": {
+    "texture": "fume_extractor_1",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
+    "renderType": 2,
+    "customModelName": "fume_extractor:default",
+    "rotationMode": 0,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": true,
+    "connectedSides": false,
+    "transparencyType": "CUTOUT",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 3.5,
+        "my": 0.01,
+        "mz": 3.5,
+        "Mx": 12.5,
+        "My": 1.01,
+        "Mz": 12.5,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 14.5,
+        "mz": 5.0,
+        "Mx": 11.0,
+        "My": 15.5,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 3.85,
+        "my": 4.35,
+        "mz": 3.85,
+        "Mx": 12.15,
+        "My": 14.65,
+        "Mz": 12.15,
+        "subtract": false
+      },
+      {
+        "mx": 4.25,
+        "my": 5.25,
+        "mz": 4.25,
+        "Mx": 11.75,
+        "My": 5.25,
+        "Mz": 11.75,
+        "subtract": false
+      },
+      {
+        "mx": 4.25,
+        "my": 13.75,
+        "mz": 4.25,
+        "Mx": 11.75,
+        "My": 13.75,
+        "Mz": 11.75,
+        "subtract": false
+      },
+      {
+        "mx": 4.25,
+        "my": 4.75,
+        "mz": 4.25,
+        "Mx": 4.25,
+        "My": 14.25,
+        "Mz": 11.75,
+        "subtract": false
+      },
+      {
+        "mx": 11.75,
+        "my": 4.75,
+        "mz": 4.25,
+        "Mx": 11.75,
+        "My": 14.25,
+        "Mz": 11.75,
+        "subtract": false
+      },
+      {
+        "mx": 4.25,
+        "my": 4.75,
+        "mz": 4.25,
+        "Mx": 11.75,
+        "My": 14.25,
+        "Mz": 4.25,
+        "subtract": false
+      },
+      {
+        "mx": 4.25,
+        "my": 4.75,
+        "mz": 11.75,
+        "Mx": 11.75,
+        "My": 14.25,
+        "Mz": 11.75,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 1.0,
+        "mz": 5.0,
+        "Mx": 11.0,
+        "My": 3.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 6.0,
+        "my": 3.0,
+        "mz": 6.0,
+        "Mx": 10.0,
+        "My": 5.0,
+        "Mz": 10.0,
+        "subtract": false
+      }
+    ],
+    "name": "Fume Extractor",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "hardness": 1.0,
+    "resistance": 2.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:RitualsOfTheWilds"
+      }
+    ],
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "requiresCorrectTool": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canRedstoneConnect": false,
+    "lightOpacity": 0,
+    "material": {
+      "value": "GLASS"
+    },
+    "tickRate": 1,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
+    "colorOnMap": "IRON",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "reactionToPushing": "BLOCK",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "GLASS"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "vanillaToolTier": "NONE",
+    "isBonemealable": false,
+    "hasInventory": true,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 0,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": false,
+    "inventoryComparatorPower": false,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "FumeExtractorOnBlockRightClicked"
+    },
+    "onBlockAdded": {
+      "name": "FumeExtractorAddedToWorld"
+    },
+    "onTickUpdate": {
+      "name": "FumeExtractorOnTickUpdate"
+    },
+    "generateFeature": false,
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "TAG:stone_ore_replaceables"
+      }
+    ],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
+  }
+}

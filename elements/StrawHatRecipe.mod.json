@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:straw_block_for_straw_hat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:straw_for_straw_hat"
+      },
+      {
+        "value": "TAG:forge:straw_for_straw_hat"
+      },
+      {
+        "value": "TAG:forge:straw_for_straw_hat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrawHat"
+    },
+    "name": "straw_hat_recipe",
+    "namespace": "mod"
+  }
+}

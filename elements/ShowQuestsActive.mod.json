@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "K",
+    "keyBindingName": "Show Quests Active",
+    "keyBindingCategoryKey": "rituals_of_the_wilds",
+    "onKeyPressed": {
+      "name": "ShowQuestsActiveOnKeyPressed"
+    }
+  }
+}

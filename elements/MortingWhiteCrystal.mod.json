@@ -1,0 +1,16 @@
+{
+  "_fv": 66,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "mortar_and_pestle_recipes",
+    "result": {
+      "value": "CUSTOM:WhiteCrystalDust"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:WhiteCrystalShard"
+      }
+    ]
+  }
+}

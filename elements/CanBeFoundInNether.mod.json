@@ -1,0 +1,17 @@
+{
+  "_fv": 66,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:BloodFern"
+      },
+      {
+        "value": "CUSTOM:Ethergrass"
+      }
+    ],
+    "information": [
+      "This plant can be found in nether to be more specific in crimson or corrupted forests."
+    ]
+  }
+}

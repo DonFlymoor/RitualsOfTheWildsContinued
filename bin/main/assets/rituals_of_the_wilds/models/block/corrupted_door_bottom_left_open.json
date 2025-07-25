@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "particle": "rituals_of_the_wilds:block/corrupted_door_bottom",
+    "bottom": "rituals_of_the_wilds:block/corrupted_door_bottom",
+    "top": "rituals_of_the_wilds:block/corrupted_door_top"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:cobblestones"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:mortar_and_pestle",
+    "count": 1
+  }
+}

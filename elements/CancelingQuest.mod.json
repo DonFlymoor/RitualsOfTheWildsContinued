@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "M",
+    "keyBindingName": "Cancel Selected Quest",
+    "keyBindingCategoryKey": "rituals_of_the_wilds",
+    "onKeyPressed": {
+      "name": "CancelingQuestOnKeyPressed"
+    }
+  }
+}

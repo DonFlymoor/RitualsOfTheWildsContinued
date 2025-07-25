@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "rituals_of_the_wilds:empty_ink_bottle"
+    },
+    "b": {
+      "tag": "forge:rotten_stuff"
+    },
+    "c": {
+      "item": "rituals_of_the_wilds:stabilizing_powder"
+    },
+    "d": {
+      "tag": "forge:ink_sac"
+    },
+    "e": {
+      "tag": "forge:powders/amethyst_powder"
+    },
+    "f": {
+      "item": "rituals_of_the_wilds:umbral_crystal_shard"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:rot_ink_bottle",
+    "count": 1
+  }
+}

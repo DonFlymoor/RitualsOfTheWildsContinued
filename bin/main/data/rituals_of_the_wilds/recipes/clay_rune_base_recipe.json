@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "baa"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:clay_balls"
+    },
+    "b": {
+      "tag": "forge:gems/emerald"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:clay_rune_base",
+    "count": 1
+  }
+}

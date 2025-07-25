@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    "cdc",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:paper"
+    },
+    "b": {
+      "item": "rituals_of_the_wilds:empty_ink_bottle"
+    },
+    "c": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:red_wool"
+    }
+  },
+  "result": {
+    "item": "rituals_of_the_wilds:rune_scribing_table",
+    "count": 1
+  }
+}

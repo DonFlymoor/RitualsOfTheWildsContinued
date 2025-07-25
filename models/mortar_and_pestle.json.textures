@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mortar_and_pestle",
+        "1": "mortar_and_pestle_1"
+      },
+      "name": "default"
+    }
+  }
+}
