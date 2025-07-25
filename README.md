@@ -1,6 +1,6 @@
 # 🌿 Rituals of the Wilds Continued Mod
 
-**Rituals of the Wilds Continued** is a Minecraft mod oringinally created by JenkiMods using [MCreator](https://mcreator.net), themed around mythical and ritual gameplay enhancements.
+**Rituals of the Wilds Continued** is a Minecraft mod oringinally created by JenkiMods using [MCreator](https://mcreator.net), themed around mythical and ritual gameplay enhancements. Since Jenki in unable to work on it anymore I am creating a fork with more emphasis on realism (to fit my team's modpack, NoxCraft) and hopefully will be able to develop it further and provide bugfixes and further updates
 
 > ⚠️ **This mod only works with MCreator version 2024.2.** Do not attempt to open or modify it in other versions.
 
